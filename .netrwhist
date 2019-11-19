@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/muwang/Desktop/aaa copy/.phenix/project_data'
+let g:netrw_dirhist_2='/Users/muwang/Desktop/aaa copy/.phenix'
+let g:netrw_dirhist_3='/Users/muwang/Desktop/aaa copy'
+let g:netrw_dirhist_4='/Users/muwang/Desktop'
+let g:netrw_dirhist_5='/Users/muwang/Desktop/aaa copy'
+let g:netrw_dirhist_6='/Users/muwang/Desktop/aaa copy/.phenix'
+let g:netrw_dirhist_7='/Users/muwang/Desktop/aaa copy/.phenix/project_data'
+let g:netrw_dirhist_8='/Users/muwang/Desktop/aaa copy/.phenix'
